@@ -5,3 +5,5 @@ A Quiz App is a web application that allows users to participate in interactive 
 <div class="info">1. You will have only <span>10 seconds</span> per each question.</div>
             <div class="info">2. Once you select your answer, it can't be undone.</div>
             <div class="info">3. You'll get rewards on the basis of your correct answers.</div>
+            
+![Quiz App](https://github.com/mt057/Quiz-App/assets/82698555/3096fd5f-22b8-42ce-b7a6-d0f5ed0fe392)
